@@ -1,2 +1,14 @@
 # ayx-window-guide
-HTML page archive and documentation
+
+独立 HTML 页面集合
+
+本仓库承载生成后的页面文件，便于跟踪每次提交内容。
+
+## 内容保存
+
+- 根目录保存页面文件
+- 提交历史记录文件变化
+
+## 维护备注
+
+若仓库启用 Pages，页面可通过 Pages 地址进行访问。
